@@ -1,0 +1,1 @@
+textricator-10.1-SNAPSHOT-bin.tgz filter=lfs diff=lfs merge=lfs -text
